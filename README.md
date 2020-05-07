@@ -1,2 +1,2 @@
-# spectral_analysis_LLC
+# LLC Analysis
 Spectral analysis of LLC4320 simulation
