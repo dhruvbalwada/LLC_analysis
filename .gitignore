@@ -1,3 +1,6 @@
 *.png
 *.mp4
 *.nc
+*.gz
+*.zip
+.ipynb*
